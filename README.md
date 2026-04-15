@@ -1,6 +1,6 @@
 ## 🖥️💡 Projeto Web via Terminal
 
-## 📖📖Descrição
+## 📖📖 Descrição:
 Projeto criado totalmente utilizando comandos no terminal Ubuntu.
 
 ## 🤖🤖 Comandos utilizados:
@@ -15,6 +15,6 @@ Projeto criado totalmente utilizando comandos no terminal Ubuntu.
 - nano/vim -  Editores de texto internos.
 
 
-## 😣😣Dificuldades
+## 😣😣 Dificuldades
 - Aprender a usar o Vim
 - Memorizar comandos
