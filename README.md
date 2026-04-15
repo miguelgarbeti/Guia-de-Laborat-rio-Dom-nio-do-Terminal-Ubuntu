@@ -16,5 +16,5 @@ Projeto criado totalmente utilizando comandos no terminal Ubuntu.
 
 
 ## 😣😣 Dificuldades
-- Aprender a usar o Vim
+- Aprender a usar o Vim/Nano
 - Memorizar comandos
