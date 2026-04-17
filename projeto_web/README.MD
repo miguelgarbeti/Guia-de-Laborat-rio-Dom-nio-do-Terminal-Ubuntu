@@ -1,9 +1,9 @@
-## 🖥️💡 Projeto Web via Terminal
+# Projeto Web via Terminal
 
-## 📖📖 Descrição:
+# Descrição:
 Projeto criado totalmente utilizando comandos no terminal Ubuntu.
 
-## 🤖🤖 Comandos utilizados:
+# Comandos utilizados:
 - pwd - Mostra o caminho da pasta atual.
 - ls - Lista arquivos e pastas.
 - cd - Entra em pastas.
@@ -15,6 +15,6 @@ Projeto criado totalmente utilizando comandos no terminal Ubuntu.
 - nano/vim -  Editores de texto internos.
 
 
-## 😣😣 Dificuldades
+# Dificuldades
 - Aprender a usar o Vim/Nano
 - Memorizar comandos
