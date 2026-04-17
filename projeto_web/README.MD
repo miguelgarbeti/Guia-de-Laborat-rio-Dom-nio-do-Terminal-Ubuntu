@@ -16,5 +16,5 @@ nano/vim -  Editores de texto internos.
 
 
 # Dificuldades
-- Aprender a usar o Vim/Nano
-- Memorizar comandos
+ Aprender a usar o Vim/Nano
+ Memorizar comandos
